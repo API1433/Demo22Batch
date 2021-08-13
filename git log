@@ -1,0 +1,25 @@
+[33mtag 1.1[m
+Tagger: shravan Kumar Nampalli <shravan.nampalli@apisero.com>
+Date:   Thu Aug 12 15:25:07 2021 +0530
+
+2nd commit
+
+[33mcommit bbf32f6e2344f6cf8490343df86829e69fa6598f[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;33mtag: 1.1[m[33m)[m
+Author: shravan Kumar Nampalli <shravan.nampalli@apisero.com>
+Date:   Thu Aug 12 15:10:57 2021 +0530
+
+    2st commit
+
+[1mdiff --git a/Main.java b/Main.java[m
+[1mindex 9051144..87d88d1 100644[m
+[1m--- a/Main.java[m
+[1m+++ b/Main.java[m
+[36m@@ -2,5 +2,7 @@[m [mclass Main{[m
+ public static void main(String args[])[m
+ {[m
+   System.out.println("Hello World");[m
+[32m+[m
+[32m+[m[32m System.out.println("Hello World");[m
+ }[m
+ }[m
+\ No newline at end of file[m
